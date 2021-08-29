@@ -1,0 +1,4 @@
+Deployment method:  
+1. Machine learning model will be deployed in a docker envrioment and provide api service
+2. User interface website will be deployed as an indepandent liunix enviroment(Ubuntu or Centos) in Google cloud or AWS cloud.
+3. User interface website will directly call api(in step1) for prediction.
